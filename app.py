@@ -59,8 +59,9 @@ difficulty = st.sidebar.selectbox(
     index=1,
 )
 
+# FIXME: Number of attempts for different difficulties
 attempt_limit_map = {
-    "Easy": 6,
+    "Easy": 10,
     "Normal": 8,
     "Hard": 5,
 }
