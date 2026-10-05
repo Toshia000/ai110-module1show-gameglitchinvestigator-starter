@@ -12,11 +12,11 @@ Answer each question in 3 to 5 sentences. Be specific and honest about what actu
 
 Document at least 3 bugs you found. Add rows as needed.
 
-| Input | Expected Behavior | Actual Behavior | Console Output / Error |
-|-------|-------------------|-----------------|------------------------|
-| | | | |
-| | | | |
-| | | | |
+| Input | Expected Behavior | Actual Behavior | Console Output / Error | Suspected Code Location |
+|-------|-------------------|-----------------|------------------------|-------------------------|
+| Guessed 64 | Hint to go lower | Hint to go higher | None | `app.by`
+| Pressed enter | Submit guess | Nothing happened | None | `app.by`
+| Changed difficulty to easy | More attempts | Less attempts | None | `app.by`
 
 ---
 
