@@ -33,11 +33,15 @@ It wrote the code, ran away, and now the game is unplayable.
 
 Describe your fixed game in numbered steps so a reader can follow along without watching a video:
 
-1. <!-- Describe this step -->
-2. <!-- Describe this step -->
-3. <!-- Describe this step -->
-4. <!-- Describe this step -->
-5. <!-- Add more steps as needed -->
+1. User enters a guess of 35
+2. User presses an enter key
+3. Game tells the user to go lower
+4. User enters a guess of 7
+5. User presses an enter key
+6. Game tells the user to go higher
+7. User enters a guess of 9
+8. User clicks on submit guess button
+9. Game tells the user that the guess is correct
 
 **Screenshot** *(optional)*: <!-- Insert a screenshot of your fixed, winning game here -->
 
