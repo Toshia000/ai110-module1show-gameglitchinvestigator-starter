@@ -56,3 +56,9 @@ Document at least 3 bugs you found. Add rows as needed.
   - This could be a testing habit, a prompting strategy, or a way you used Git.
 - What is one thing you would do differently next time you work with AI on a coding task?
 - In one or two sentences, describe how this project changed the way you think about AI generated code.
+
+---
+
+- I want to use git more often in my future projects, because it is helpful for documenting the project history
+- When working with AI I can be more specific in my prompts
+- Usually I do not use AI as a main instrument for creating applications. In this project I did not write the code myself istead I told AI what I want and it made changes for me. 
