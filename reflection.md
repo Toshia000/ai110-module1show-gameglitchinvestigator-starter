@@ -28,6 +28,10 @@ Document at least 3 bugs you found. Add rows as needed.
 
 ---
 
+- For this project I used Claude AI agent
+- One suggestion that was correct was a move of a function from the `app.py` to `logic_utils.py`. I verified the result by comparing `app.py` before refactor and `logic_utils.py` after refactor
+- One example of a suggestion I rejected is when I asked AI to fix the bug when the easier difficulties had less attempts that harder difficulties. The suggestion for the fix was correct, it was very simple. I asked AI to generate test. I was expecting a simple test like other tests in `test_game_logic.py`, but instead Claude suggested importing additional modules and the test itself was too complicated. I asked Claude several times to make test more simple without using any other modules, but Claude said it was not possible, so I rejected the suggestion and tested the bug fix myself in the browser.
+
 ## 3. Debugging and testing your fixes
 
 - How did you decide whether a bug was really fixed?
