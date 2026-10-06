@@ -25,9 +25,9 @@ It wrote the code, ran away, and now the game is unplayable.
 
 ## 📝 Document Your Experience
 
-- [ ] Describe the game's purpose.
-- [ ] Detail which bugs you found.
-- [ ] Explain what fixes you applied.
+- The purpose of the game is to guess the correct number with limited number of attempts.
+- Game had several fixes. Hints suggesting user to go lower or higher were inaccurate. Easier difficulty had less attempts that normal and hard difficulties. Input field was suggesting user to press enter to submit the guess, but when the button was pressed nothing happened.
+- With the help of AI I moved game logic from `app.py` to `logic_utils.py`. I also fixed the game hints, added guess submit on the enter press and increased number of attempts for easy and normal difficulties.
 
 ## 📸 Demo Walkthrough
 
