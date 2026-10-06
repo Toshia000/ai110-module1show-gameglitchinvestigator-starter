@@ -41,6 +41,9 @@ Document at least 3 bugs you found. Add rows as needed.
 
 ---
 
+- For the bug when the game shows wrong hint there were tests already created. Claude added one additional test for the wrong data type.
+- For the bug with the difficulty and the enter button, I verified fixes manually, because Claude was unable to generate simple tests.
+
 ## 4. What did you learn about Streamlit and state?
 
 - How would you explain Streamlit "reruns" and session state to a friend who has never used Streamlit?
